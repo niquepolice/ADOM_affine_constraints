@@ -1,0 +1,7 @@
+jupyter
+numpy
+scipy
+cvxpy
+tqdm
+matplotlib
+
